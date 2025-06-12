@@ -82,7 +82,7 @@ http://localhost:3000/api-docs
 - `npm test` - Executa os testes
 - `npm run lint` - Executa o linter
 
-### Estrutura do Projeto
+### Estrutura do Projeto 
 
 ```
 src/
